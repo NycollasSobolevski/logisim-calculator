@@ -1,0 +1,6 @@
+Clica Numero -> Coloca no registrador 1
+Clica Operador -> Soma o registrador 0 com o 1 e guarda no 0
+Clica Numero -> Coloca no registrador 1
+Clical Igual -> Faz operação com registradores 0 e 1 e guarda no 1
+
+>> Mostra registrador 1
